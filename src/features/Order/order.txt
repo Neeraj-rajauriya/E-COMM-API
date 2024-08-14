@@ -1,0 +1,10 @@
+Place Order
+
+
+--> Get cart item of user , calculate total amount
+--> Create a record for Order
+--> Reduce the Stock (Product Quantity)
+--> Clear the Cart
+--> Deduct the Payment
+--> Inform to Seller
+--> Inform to Courier
